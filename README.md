@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there! Great to see you here! 👋
+### I'm a Argentinian based Fullstack Developer. I love the frontend and the design, but I also have a passion for the backend.
 
-<!--
-**thiaguetas/thiaguetas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a freelancer.
+- 🧠 I'm looking forward to start working on the industry.
+- 📫 How to reach me: 
+   By email => `thiagososaarganaraz@gmail.com`
+- ⚡ Checkout my portfolio: 
 
-Here are some ideas to get you started:
+### My skill set:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### FrontEnd
+https://reactjs.org/
+https://www.javascript.com/
+https://en.wikipedia.org/wiki/HTML5
+https://www.w3schools.com/css/
+https://getbootstrap.com/docs/3.4/javascript/
+https://redux.js.org/
+https://mui.com/
+https://styled-components.com/
+
+#### Backend
+https://www.cplusplus.com/
+https://es.wikipedia.org/wiki/C_Sharp
+https://nodejs.org/
+https://expressjs.com/
+https://www.postgresql.org/
+https://www.mysql.com/
+
+
+### Connect with me
+
+###
