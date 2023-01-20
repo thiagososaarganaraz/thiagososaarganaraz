@@ -10,7 +10,7 @@
 ### My skill set:
 
 #### FrontEnd
-![React logo](https://reactjs.org)
+![React logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw2mwCPNJOKewb_B01YQRI4y&ust=1674260632556000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKjI1oXx1PwCFQAAAAAdAAAAABAE)
 ![JS](https://www.javascript.com/)
 ![HTML](https://en.wikipedia.org/wiki/HTML5)
 ![](https://www.w3schools.com/css/)
