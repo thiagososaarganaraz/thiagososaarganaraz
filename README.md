@@ -10,4 +10,4 @@
 - 🧠 I'm looking forward to start working on the industry.
 - 📫 How to reach me: 
    By email => `thiagososaarganaraz@gmail.com`
-- ⚡ Checkout my portfolio: 
+### ⚡ Checkout my portfolio: https://portfolio-thiaguetas.netlify.app/
