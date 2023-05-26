@@ -6,8 +6,8 @@
 ****
 #### More about myself...
 
-- 🔭 I’m currently working as a freelancer.
-- 🧠 I'm looking forward to start working on the industry.
+- 🔭 I’m currently working at Snoop Consulting.
+- 🧠 I'm looking forward to be a SSR developer.
 - 📫 How to reach me: 
    By email => `thiagososaarganaraz@gmail.com`
 ### ⚡ Checkout my portfolio: https://portfolio-thiaguetas.netlify.app/
