@@ -7,7 +7,7 @@
 #### More about myself...
 
 - 🔭 I’m currently working at Snoop Consulting.
-- 🧠 I'm looking forward to be a SSR developer.
+- 🧠 I'm working hard to reach SSR seniority.
 - 📫 How to reach me: 
    By email => `thiagososaarganaraz@gmail.com`
 ### ⚡ Checkout my portfolio: https://portfolio-thiaguetas.netlify.app/
