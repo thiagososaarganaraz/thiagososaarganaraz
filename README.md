@@ -11,10 +11,10 @@ I’m passionate about frontend and design, but I also have a deep expertise in 
 - 🔭 Currently working at **Snoop Consulting**.  
 - 🧠 Continuously growing my skills as a Semi-Senior developer.  
 - ⚙️ Tech Stack:  
-  - **Languages & Frameworks:** .NET, TypeScript, React, Python  
-  - **Tools & Platforms:** SQL, Google Cloud, Azure DevOps, Firebase 
+  - **Languages & Frameworks:** TypeScript, React, .NET, Python
+  - **Tools & Platforms:** SQL, GCP, Azure DevOps, Firebase 
 - 📫 Reach me:  
    - ✉️ **Email:** thiagososaarganaraz@gmail.com  
 
 ---  
-### ⚡ Let's build something awesome together!
+### ⚡ Reach me by email and let's work together in something powerful!
