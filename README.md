@@ -1,7 +1,7 @@
 ## Hi there! My name is Thiago. Great to see you here! 👋  
 
 ### About Me
-#### I'm a Semi-Senior Fullstack Developer based in Argentina.  
+#### I'm a Semi-Senior Frontend Developer based in Argentina.  
 I’m passionate about frontend and design, but I also have a deep expertise in building robust backend.  
 ![coding cat](https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif)  
 
@@ -11,8 +11,8 @@ I’m passionate about frontend and design, but I also have a deep expertise in 
 - 🔭 Currently working at **Snoop Consulting**.  
 - 🧠 Continuously growing my skills as a Semi-Senior developer.  
 - ⚙️ Tech Stack:  
-  - **Languages & Frameworks:** TypeScript, React, .NET, Python
-  - **Tools & Platforms:** SQL, GCP, Azure DevOps, Firebase 
+  - **Languages & Frameworks:** HTML, CSS, TypeScript, React, Python, 
+  - **Tools & Platforms:** Figma, Firebase, Git
 - 📫 Reach me:  
    - ✉️ **Email:** thiagososaarganaraz@gmail.com  
 
