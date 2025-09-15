@@ -1,9 +1,9 @@
-## 👋 Hi there! I'm Thiago — great to see you here!
+## 👋 Hi there! I'm Thiago
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thiago%20Sosa%20Argañaraz.%20👨‍💻&fontSize=32&fontAlign=center&animation=twinkling)
 
 ### 👨‍🎨 About Me
-#### Semi-Senior Frontend Developer | UX/UI Focused | Based in Argentina 🇦🇷  
+#### Mid-Level Frontend Developer | UX/UI Focused | Based in Argentina 🇦🇷  
 I craft responsive, modern interfaces with **React** and **TypeScript**, always thinking about the user behind the screen.  
 When I'm not coding, I'm probably sketching wireframes, tweaking micro-interactions, or vibing with some of my playlist.  
 
@@ -14,7 +14,7 @@ When I'm not coding, I'm probably sketching wireframes, tweaking micro-interacti
 ### 🔎 A little more about me...
 - 🖥️ Currently working as a Frontend Dev focused on UX/UI
 - 🔧 Backend-friendly: I’ve worked across the stack and handled CI/CD workflows
-- 💬 Fluent in Spanish and English (B2/C1)
+- 💬 Fluent in Spanish and English (B2)
 - 🧠 Lifelong learner — always exploring the next tool or trend  
 - 🎯 Obsessed with design systems, accessibility, and performance  
 
@@ -24,18 +24,20 @@ When I'm not coding, I'm probably sketching wireframes, tweaking micro-interacti
 
 **Languages & Frameworks:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS-2b3632?logo=css&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![N8N](https://img.shields.io/badge/N8N-5543d9?logo=n8n&logoColor=white)
 
 **Tools & Platforms:**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)  
+![Figma](https://img.shields.io/badge/GCP-0e4c52?logo=googlecloud&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=azure&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github&logoColor=white)
 
 ---
 
@@ -58,7 +60,7 @@ When I'm not coding, I'm probably sketching wireframes, tweaking micro-interacti
 
 ### 🎧 Listen to this ;)
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31omxh2ykyrthynqpup5ntfrqkra&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/playlist/0ysWI1FbRk6O8l2mBGF5hM)
+[![Spotify](https://img.shields.io/badge/Check%20my%20playlist-1db954?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0ysWI1FbRk6O8l2mBGF5hM)
 
 ---
 
