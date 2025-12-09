@@ -10,11 +10,11 @@
 ---
 
 ### 🔎 A little more about me...
-- 🖥️ Currently working as a Frontend Dev focused on UX/UI
+- 🖥️ Currently working as a Software Engineer at Snoop Consulting
 - 🔧 Backend-friendly: I’ve worked across the stack and handled CI/CD workflows
 - 💬 Fluent in Spanish and English (B2)
 - 🧠 Lifelong learner — always exploring the next tool or trend  
-- 🎯 Obsessed with design systems, accessibility, and performance  
+- 🎯 Obsessed with design, accessibility, and performance  
 
 ---
 
