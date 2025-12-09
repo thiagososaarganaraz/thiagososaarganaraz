@@ -3,9 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thiago%20Sosa%20Argañaraz.%20👨‍💻&fontSize=32&fontAlign=center&animation=twinkling)
 
 ### 👨‍🎨 About Me
-#### Mid-Level Frontend Developer | UX/UI Focused | Based in Argentina 🇦🇷  
-I craft responsive, modern interfaces with **React** and **TypeScript**, always thinking about the user behind the screen.  
-When I'm not coding, I'm probably sketching wireframes, tweaking micro-interactions, or vibing with some of my playlist.  
+#### Software Engineer | Based in Argentina 🇦🇷  
 
 ![coding cat](https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif)
 
