@@ -3,14 +3,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thiago%20Sosa%20Argañaraz.%20👨‍💻&fontSize=32&fontAlign=center&animation=twinkling)
 
 ### 👨‍🎨 About Me
-#### Software Engineer | Based in Argentina 🇦🇷  
+#### Frontend Engineer | Based in Argentina 🇦🇷  
 
 ![coding cat](https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif)
 
 ---
 
 ### 🔎 A little more about me...
-- 🖥️ Currently working as a Software Engineer at Snoop Consulting
+- 🖥️ Currently working as a Frontend Engineer at Snoop Consulting
 - 🔧 Backend-friendly: I’ve worked across the stack and handled CI/CD workflows
 - 💬 Fluent in Spanish and English (B2)
 - 🧠 Lifelong learner — always exploring the next tool or trend  
