@@ -42,8 +42,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagososaarganaraz&show_icons=true&theme=radical" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagososaarganaraz&layout=compact&theme=radical" alt="Top langs" height="170" />
+  <a href="https://github.com/thiagososaarganaraz">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thiagososaarganaraz&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" height="170" />
+  </a>
+  <a href="https://github.com/thiagososaarganaraz">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=thiagososaarganaraz&layout=compact&theme=radical" alt="Top langs" height="170" />
+  </a>
 </p>
 
 ---
